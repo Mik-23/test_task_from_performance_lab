@@ -1,0 +1,8 @@
+{
+  "tests":
+  [
+      {"id": "1", "name": "test_1"},
+      {"id": "2", "name": "test_2"},
+      {"id": "3", "name": "test_3"}
+  ]
+}
